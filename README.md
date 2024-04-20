@@ -1,1 +1,1 @@
-# Battery BDC Hardware Split P1
+# Battery BDC Hardware

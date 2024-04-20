@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=+12 Pin=J2-1
+Removed Pin From Net: NetName=+12 Pin=J7-1
+Removed Pin From Net: NetName=+12 Pin=J8-1
+Removed Pin From Net: NetName=GND Pin=J8-2
+Removed Pin From Net: NetName=+12 Pin=J9-1
+Removed Pin From Net: NetName=GND Pin=J9-2
+Removed Member From Class: ClassName=Connectors Member=J8
+Removed Member From Class: ClassName=Connectors Member=J9
+Added Pin To Net: NetName=+24 Pin=J2-1
+Added Pin To Net: NetName=+24 Pin=J7-1
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole

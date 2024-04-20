@@ -1,0 +1,107 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=+5 Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=+24 Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=+3.3 Pin=C26-2
+Removed Pin From Net: NetName=GND Pin=C27-1
+Removed Pin From Net: NetName=+5 Pin=C27-2
+Removed Pin From Net: NetName=+5 Pin=D1-1
+Removed Pin From Net: NetName=+5 Pin=D39-2
+Removed Pin From Net: NetName=+3.3 Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=+5 Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=+24 Pin=PS1-1
+Removed Pin From Net: NetName=GND Pin=PS1-2
+Removed Pin From Net: NetName=+5 Pin=PS1-3
+Removed Pin From Net: NetName=+3.3 Pin=U1-1
+Removed Pin From Net: NetName=NetC20_P Pin=U1-6
+Removed Pin From Net: NetName=NetC25_P Pin=U1-12
+Removed Pin From Net: NetName=GND Pin=U1-14
+Removed Pin From Net: NetName=NetC24_P Pin=U1-23
+Removed Pin From Net: NetName=NetC18_P Pin=U1-26
+Removed Pin From Net: NetName=GND Pin=U1-32
+Removed Pin From Net: NetName=GND Pin=U1-38
+Removed Pin From Net: NetName=GND Pin=U7-2
+Removed Pin From Net: NetName=+5 Pin=U7-3
+Removed Pin From Net: NetName=+3.3 Pin=U7-5
+Removed Pin From Net: NetName=GND Pin=U7-8
+Change Component Footprint: Designator=J6 Old Footprint=4-POS 2.54mm Header New Footprint=2x4-POS 2.54mm Header
+Change Component Footprint: Designator=J1 Old Footprint=4P - Right 3.5mm Industrial Connector New Footprint=2x4-POS 2.54mm Header
+Change Component Footprint: Designator=J5 Old Footprint=4P - Right 3.5mm Industrial Connector New Footprint=2x4-POS 2.54mm Header
+Change Component Comment : Designator=J6 Old Comment=4-POS 2.54mm Header New Comment=2x4-POS 2.54mm Header
+Change Component Comment : Designator=J1 Old Comment=4P - Right 3.5mm Industrial Connector New Comment=2x4-POS 2.54mm Header
+Change Component Comment : Designator=J5 Old Comment=4P - Right 3.5mm Industrial Connector New Comment=2x4-POS 2.54mm Header
+Change component parameters: Designator = "J1" ("J1"); Footprint = "4P - Right 3.5mm Industrial Connector"; UniqueID = "\XYKLSNMM" ("\XYKLSNMM")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/613004243121/W%C3%BCrth%20Elektronik/view-part/1737074/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "613004243121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/613004243121/W%C3%BCrth%20Elektronik/view-part/1737074/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J5" ("J5"); Footprint = "4P - Right 3.5mm Industrial Connector"; UniqueID = "\MGKBZIBU" ("\MGKBZIBU")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/613004243121/W%C3%BCrth%20Elektronik/view-part/1737074/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "613004243121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/613004243121/W%C3%BCrth%20Elektronik/view-part/1737074/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J6" ("J6"); Footprint = "4-POS 2.54mm Header"; UniqueID = "\CSMLLNVI" ("\CSMLLNVI")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/613004243121/W%C3%BCrth%20Elektronik/view-part/1737074/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "613004243121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/613004243121/W%C3%BCrth%20Elektronik/view-part/1737074/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(2x4-POS 2.54mm Header)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/613004243121/W%C3%BCrth%20Elektronik/view-part/1737074/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "613004243121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/613004243121/W%C3%BCrth%20Elektronik/view-part/1737074/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC18_P Pin=J1-1
+Added Pin To Net: NetName=NetC25_P Pin=J1-2
+Added Pin To Net: NetName=NetC20_P Pin=J1-3
+Added Pin To Net: NetName=NetC24_P Pin=J1-4
+Added Pin To Net: NetName=+3.3 Pin=J5-2
+Added Pin To Net: NetName=+24 Pin=J6-2
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=R43-2
+Added Pin To Net: NetName=NetJ3_1 Pin=R45-2
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=R35-2
+Added Pin To Net: NetName=NetJ3_2 Pin=R36-2
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-3
+Added Pin To Net: NetName=NetJ3_3 Pin=R40-2
+Added Pin To Net: NetName=NetJ3_3 Pin=R41-2
+Added Net: Name=NetJ3_3
+Added Pin To Net: NetName=NetJ3_4 Pin=J3-4
+Added Pin To Net: NetName=NetJ3_4 Pin=R37-2
+Added Pin To Net: NetName=NetJ3_4 Pin=R38-2
+Added Net: Name=NetJ3_4
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_1 Pin=U2-10
+Added Net: Name=NetJ5_1
+Added Pin To Net: NetName=NetJ5_3 Pin=J5-3
+Added Pin To Net: NetName=NetJ5_3 Pin=U2-12
+Added Net: Name=NetJ5_3
+Added Member To Class: ClassName=Connectors Member=Component J3 2x4-POS 2.54mm Header
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole
