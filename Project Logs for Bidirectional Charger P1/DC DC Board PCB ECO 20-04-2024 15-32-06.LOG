@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND Pin=9-1
+Added Pin To Net: NetName=GND Pin=10-1
+Added Pin To Net: NetName=+12 Pin=11-1
+Added Pin To Net: NetName=+12 Pin=?-1
+Added Member To Class: ClassName=Connectors Member=Component 11 M3 Mounting Hole

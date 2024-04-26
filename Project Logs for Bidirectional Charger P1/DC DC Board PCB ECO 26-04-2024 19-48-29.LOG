@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=? NewDesignator=12
+Change Component Description : Designator=Q2 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS(on) | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature
+Change Component Description : Designator=Q3 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS(on) | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature
+Added Component: Designator=13(M3 - Mounting Hole)
+Added Member To Class: ClassName=Connectors Member=Component 13 M3 Mounting Hole

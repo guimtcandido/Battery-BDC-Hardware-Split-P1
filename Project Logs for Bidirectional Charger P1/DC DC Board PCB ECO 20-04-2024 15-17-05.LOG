@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=Bi_Dir_Circuit Member=C5
+Added Component: Designator=(M3 - Mounting Hole)
+Added Component: Designator=(M3 - Mounting Hole)
+Added Component: Designator=(M3 - Mounting Hole)
+Added Component: Designator=(M3 - Mounting Hole)
+Added Pin To Net: NetName=Net_1 Pin=-1
+Added Pin To Net: NetName=Net_1 Pin=-1
+Added Net: Name=Net_1
+Add Net: Net with name "Net_1" already exists
+Added Member To Class: ClassName=IR2110 Member=Component C4 0.1uF
+Added Member To Class: ClassName=Bi_Dir_Circuit Member=Component C6 1nF
+Added Member To Class: ClassName=Connectors Member=Component J2 KF301-2P
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component  M3 Mounting Hole

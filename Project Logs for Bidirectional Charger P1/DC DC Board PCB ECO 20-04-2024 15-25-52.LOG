@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator= NewDesignator=9
+Change Component Designator: OldDesignator= NewDesignator=10
+Change Component Designator: OldDesignator= NewDesignator=11
+Change Component Designator: OldDesignator= NewDesignator=?
+Change Net Name : Old Net Name=Net_1 New Net Name=Net11_1
+Added Pin To Net: NetName=Net9_1 Pin=9-1
+Added Pin To Net: NetName=Net9_1 Pin=10-1
+Added Net: Name=Net9_1
+Added Member To Class: ClassName=Connectors Member=Component 9 M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component 10 M3 Mounting Hole
+Added Member To Class: ClassName=Connectors Member=Component ? M3 Mounting Hole
